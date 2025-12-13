@@ -1,5 +1,5 @@
-# DYNAC V8R0-download 
-(original title: # DYNAC-download-V8R0)
+# DYNAC-download-V8R0
+
 **DYNAC DOWNLOAD PAGE for DYNAC V8R0, a Multiparticle Beam Simulation Code for linacs and beam transport lines.**  
 LINUX, MAC and WINDOWS downloads for the simulation code DYNAC V8R0 can be found on this page. Instructions for installation after downloading are in the file: [readme.txt](https://github.com/dynac-source/DYNAC-download/blob/main/readme.txt). This file is also contained in the full package below.
 
