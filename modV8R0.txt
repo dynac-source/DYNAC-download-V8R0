@@ -5,7 +5,8 @@ Additions, modifications, corrections and deletions for DYNAC V8R0 (16-Dec-2025)
  1.   In the lost_particles.data file, the user defined element name for the element
       where the particle is lost is also listed now.
  2.   In the dynac.print file, halo parameters halox, haloy, and haloz are now printed, 
-      as well as the 4d transverse emittance (emit4d). 
+      as well as the 4d transverse emittance (emit4d).
+ 3.   Crosslinks added to User Guide.
         
 ## MODIFICATIONS ##
  1.   DYNAC V8R0 (source file extension .f08) is in essence a restructured version of 
@@ -901,4 +902,5 @@ Modifications for V5_5, Rev. 1 (20-November-2002)
       in the dynac.short file to 2 more digits.
 
 ===============================================================================
+
 
