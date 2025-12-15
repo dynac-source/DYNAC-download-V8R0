@@ -18,8 +18,8 @@ DYNAC has been succesfully tested on LINUX (Mint 22.2 and older, Red Hat 4.4.7-1
 The charge stripper model requires further development (e.g. energy loss model).
 
 **DYNAC V8R0 (FULL PACKAGE)**  
-DYNAC source, data, plot and help files (for WINDOWS, ZIP format) [dynacv8r0_w.zip](https://github.com/dynac-source/DYNAC-download/blob/main/dynacv7r5_w.zip)  
-DYNAC source, data, plot and help files (for LINUX/MAC, tar/gz format) [dynacv8r0.tar.gz](https://github.com/dynac-source/DYNAC-download/blob/main/dynacv7r5.tar.gz)  
+DYNAC source, data, plot and help files (for WINDOWS, ZIP format) [dynacv8r0_w.zip](https://github.com/dynac-source/DYNAC-download/blob/main/dynacv8r0_w.zip)  
+DYNAC source, data, plot and help files (for LINUX/MAC, tar/gz format) [dynacv8r0.tar.gz](https://github.com/dynac-source/DYNAC-download/blob/main/dynacv8r0.tar.gz)  
 
 *Note: To unzip the linux/mac version, type: tar xvfz dynacv8r0.tar.gz*   
 
@@ -28,25 +28,25 @@ DYNAC User Guide (PDF format) [dynac_UG.pdf](https://github.com/dynac-source/DYN
 DYNAC input file (example) for an electron gun (text format) [egun_example2.in](https://github.com/dynac-source/DYNAC-download/blob/main/egun_example2.in)  
 DYNAC input file (example) for describing the field in an electron gun (text format; to be used with the egun example above) [egun_field.txt](https://github.com/dynac-source/DYNAC-download/files/6633699/egun_field.txt)  
 DYNAC input file for the SNS H- MEBT (Medium Energy Beam Transport) line and DTL Tank 1 (text format) [sns_mebt_dtl1.in](https://github.com/dynac-source/DYNAC-download/blob/main/sns_mebt_dtl1.in)  
-DYNAC source (for WINDOWS, ZIP format) [dynacv8r0_w_source.zip](https://github.com/dynac-source/DYNAC-download/blob/main/dynacv7r5_w_source.zip)  
-Script to compile the DYNAC source (for WINDOWS, .bat file) [comv8.bat](https://github.com/dynac-source/DYNAC-download/blob/main/comv7.bat)  
-DYNAC source file (for LINUX and MAC, tar/gz format) [dynacv8r0_source.tar.gz](https://github.com/dynac-source/DYNAC-download/blob/main/dynacv7r5_source.tar.gz)  
-Script to compile the DYNAC source (for LINUX and MAC, text format) [comv8](https://github.com/dynac-source/DYNAC-download/blob/main/comv7)  
+DYNAC source (for WINDOWS, ZIP format) [dynacv8r0_w_source.zip](https://github.com/dynac-source/DYNAC-download/blob/main/dynacv8r0_w_source.zip)  
+Script to compile the DYNAC source (for WINDOWS, .bat file) [comv8.bat](https://github.com/dynac-source/DYNAC-download/blob/main/comv8.bat)  
+DYNAC source file (for LINUX and MAC, tar/gz format) [dynacv8r0_source.tar.gz](https://github.com/dynac-source/DYNAC-download/blob/main/dynacv8r0_source.tar.gz)  
+Script to compile the DYNAC source (for LINUX and MAC, text format) [comv8](https://github.com/dynac-source/DYNAC-download/blob/main/comv8)  
 
 
-[dynplt.f08](https://github.com/dynac-source/DYNAC-download/blob/main/dyndat.f90) (source file (V4R0) in text format) is used for GNUPLOT based plots.  
+[dynplt.f08](https://github.com/dynac-source/DYNAC-download/blob/main/dynplt.f08) (source file (V4R0) in text format) is used for GNUPLOT based plots.  
 Script to compile the dynplt source (for WINDOWS, .bat file) [complt.bat](https://github.com/dynac-source/DYNAC-download/blob/main/complt.bat)  
 Script to compile the dynplt source (for LINUX and MAC, text format) [complt](https://github.com/dynac-source/DYNAC-download/blob/main/complt)  
 
-*Note: To unzip the linux/mac version of the source, type: tar xvfz dynacv7r5_source.tar.gz*
+*Note: To unzip the linux/mac version of the source, type: tar xvfz dynacv8r0_source.tar.gz*
 
 **OTHER DYNAC UTILITIES**  
-[DGUI](https://github.com/dynac-source/DYNAC-download/blob/main/README.md#dgui-v2r8-download), a DYNAC Graphical User Interface.  
+[DGUI](https://github.com/dynac-source/DYNAC-download/blob/main/README.md#dgui-v3r0-download), a DYNAC Graphical User Interface.  
 [ptq2dyn.f](https://github.com/dynac-source/DYNAC-download/blob/main/ptq2dyn.f) : prepares the input data file used by the RFQPTQ card. Source file in text format, compile with:  
 *gfortran ptq2dyn.f -o ptq2dyn*  
 An alternative to the above mentioned DYNAC GUI has been developed at [MSU](https://github.com/NSCLAlt/DynacGUI).
 
-# DGUI V3R0-download
+# DGUI-V3R0-download
 **DGUI, a DYNAC Graphical User Interface**  
 DGUI V3R0 is a Python3 based GUI to DYNAC. Alternatively, the DYNAC code can be exectued from the terminal.  
 DGUI has been tested on LINUX (Mint 22 and older, Ubuntu 24, Kali 2025.03), MAC (Sequoia, Catalina and Mojave) and WINDOWS (11, 10) and works best with DYNAC V8R0.
