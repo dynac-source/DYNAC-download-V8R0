@@ -55,9 +55,9 @@ Modifications and changes in DGUI V3R0 (16-Dec-2025) as compared to GUI V2R8 are
 
 Please refer to the DGUI User Guide for download and installation instructions.  
 DGUI source (.py) [dgui.py](https://github.com/dynac-source/DYNAC-download-V8R0/blob/main/dgui.py)  
-DGUI icon (.png) to be stored in directory dynac/bin [dynicon.png](https://github.com/dynac-source-V8R0/DYNAC-download/blob/main/dynicon.png)  
-DGUI example .ini file for linux and MAC [dgui_example_linmac.ini](https://github.com/dynac-source-V8R0/DYNAC-download/blob/main/dgui_example_linmac.ini)  
-DGUI example .ini file for  Windows [dgui_example_windows.ini](https://github.com/dynac-source-V8R0/DYNAC-download/blob/main/dgui_example_windows.ini)  
+DGUI icon (.png) to be stored in directory dynac/bin [dynicon.png](https://github.com/dynac-source/DYNAC-download-V8R0/blob/main/dynicon.png)  
+DGUI example .ini file for linux and MAC [dgui_example_linmac.ini](https://github.com/dynac-source/DYNAC-download-V8R0/blob/main/dgui_example_linmac.ini)  
+DGUI example .ini file for  Windows [dgui_example_windows.ini](https://github.com/dynac-source/DYNAC-download-V8R0/blob/main/dgui_example_windows.ini)  
 DGUI User Guide (pdf format) [DGUI User Guide](https://github.com/dynac-source/DYNAC-download-V8R0/blob/main/dgui_UG.pdf)  
 
 *Note: The example .ini file needs to be renamed to dgui.ini (see User Guide)*  
